@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RadioButton</string>
+    <string name="beginName">Я историк</string>
+    <string name="go">Начать</string>
+    <string name="question1">Когда началась Первая мировая война?</string>
+    <string name="_1914">1914 год</string>
+    <string name="_1890">1890 год</string>
+    <string name="_1930">1930 год</string>
+    <string name="que2">Какая последняя династия в Китае?</string>
+    <string name="que2_1">Династия Цинь</string>
+    <string name="que2_2">Династия Хань</string>
+    <string name="que2_3">Династия Ся</string>
+    <string name="que3">Кто первый президент США?</string>
+    <string name="que3_1">Вашингтон</string>
+    <string name="que3_2">Винстон</string>
+    <string name="que3_3">Клинтон</string>
+    <string name="que4">В каком городе родился Юлий Цезарь?</string>
+    <string name="que4_1">Рим</string>
+    <string name="que4_2">Париж</string>
+    <string name="que4_3">Флоренция</string>
+    <string name="que5">В каком океане утонул Титаник?</string>
+    <string name="que5_1">Атлантический</string>
+    <string name="que5_2">Индийский</string>
+    <string name="que5_3">Тихий</string>
+</resources>
